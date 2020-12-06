@@ -3602,7 +3602,7 @@ input, select, textarea {
 
 				#header .logo {
 					font-size: 1.75rem;
-					border-width: 3px !important;
+					border-width: 0px !important;
 				}
 
 		}
